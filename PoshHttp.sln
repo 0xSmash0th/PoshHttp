@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoshHttp", "PoshHttp\PoshHttp.csproj", "{0984C7BF-61C1-4D1B-B67E-45FF4F6A3D7D}"
+EndProject
+Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = eedaa088-6f0a-456a-a198-943d00e40b68
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0984C7BF-61C1-4D1B-B67E-45FF4F6A3D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0984C7BF-61C1-4D1B-B67E-45FF4F6A3D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0984C7BF-61C1-4D1B-B67E-45FF4F6A3D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0984C7BF-61C1-4D1B-B67E-45FF4F6A3D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
